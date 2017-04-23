@@ -1,0 +1,6 @@
+c:\users\apuss\documents\visual studio 2017\Projects\Leapfrog.DataImporter\Leapfrog.DataImporter\bin\Debug\Leapfrog.DataImporter.exe.config
+c:\users\apuss\documents\visual studio 2017\Projects\Leapfrog.DataImporter\Leapfrog.DataImporter\bin\Debug\Leapfrog.DataImporter.exe
+c:\users\apuss\documents\visual studio 2017\Projects\Leapfrog.DataImporter\Leapfrog.DataImporter\bin\Debug\Leapfrog.DataImporter.pdb
+c:\users\apuss\documents\visual studio 2017\Projects\Leapfrog.DataImporter\Leapfrog.DataImporter\obj\Debug\Leapfrog.DataImporter.csprojResolveAssemblyReference.cache
+c:\users\apuss\documents\visual studio 2017\Projects\Leapfrog.DataImporter\Leapfrog.DataImporter\obj\Debug\Leapfrog.DataImporter.exe
+c:\users\apuss\documents\visual studio 2017\Projects\Leapfrog.DataImporter\Leapfrog.DataImporter\obj\Debug\Leapfrog.DataImporter.pdb
